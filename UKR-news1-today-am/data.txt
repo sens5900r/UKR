@@ -1,5 +1,0 @@
-path: UKR_news1_today_am.html
-type: files
-extension: html
-filenames:
-  UKR_news1_today_am.html: UKR_news1_today_am.html
